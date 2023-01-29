@@ -1,0 +1,15 @@
+/Users/yana/Desktop/c#/itog/homework/obj/Debug/net7.0/homework.csproj.AssemblyReference.cache
+/Users/yana/Desktop/c#/itog/homework/obj/Debug/net7.0/homework.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yana/Desktop/c#/itog/homework/obj/Debug/net7.0/homework.AssemblyInfoInputs.cache
+/Users/yana/Desktop/c#/itog/homework/obj/Debug/net7.0/homework.AssemblyInfo.cs
+/Users/yana/Desktop/c#/itog/homework/obj/Debug/net7.0/homework.csproj.CoreCompileInputs.cache
+/Users/yana/Desktop/c#/itog/homework/bin/Debug/net7.0/homework
+/Users/yana/Desktop/c#/itog/homework/bin/Debug/net7.0/homework.deps.json
+/Users/yana/Desktop/c#/itog/homework/bin/Debug/net7.0/homework.runtimeconfig.json
+/Users/yana/Desktop/c#/itog/homework/bin/Debug/net7.0/homework.dll
+/Users/yana/Desktop/c#/itog/homework/bin/Debug/net7.0/homework.pdb
+/Users/yana/Desktop/c#/itog/homework/obj/Debug/net7.0/homework.dll
+/Users/yana/Desktop/c#/itog/homework/obj/Debug/net7.0/refint/homework.dll
+/Users/yana/Desktop/c#/itog/homework/obj/Debug/net7.0/homework.pdb
+/Users/yana/Desktop/c#/itog/homework/obj/Debug/net7.0/homework.genruntimeconfig.cache
+/Users/yana/Desktop/c#/itog/homework/obj/Debug/net7.0/ref/homework.dll
